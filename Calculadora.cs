@@ -16,8 +16,27 @@ public class Calculadora
         }
     }
 
-    public void Suma(double sumando)
+    public void Sumar(double x)
     {
-        dato += sumando;
+        dato += x;
+    }
+
+    public void Restar(double x)
+    {
+        dato -= x;
+    }
+
+    public void Muliplicar(double x)
+    {
+        dato *= x;
+    }
+
+    public void Dividir(double termino)
+    {
+        dato /= termino;
+    }
+    public void Limpiar()
+    {
+        dato = 0;
     }
 }
