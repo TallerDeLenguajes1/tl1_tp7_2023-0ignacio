@@ -1,0 +1,15 @@
+C:\tp7\tl1_tp7_2023-0ignacio\bin\Debug\net7.0\tl1_tp7_2023-0ignacio.exe
+C:\tp7\tl1_tp7_2023-0ignacio\bin\Debug\net7.0\tl1_tp7_2023-0ignacio.deps.json
+C:\tp7\tl1_tp7_2023-0ignacio\bin\Debug\net7.0\tl1_tp7_2023-0ignacio.runtimeconfig.json
+C:\tp7\tl1_tp7_2023-0ignacio\bin\Debug\net7.0\tl1_tp7_2023-0ignacio.dll
+C:\tp7\tl1_tp7_2023-0ignacio\bin\Debug\net7.0\tl1_tp7_2023-0ignacio.pdb
+C:\tp7\tl1_tp7_2023-0ignacio\obj\Debug\net7.0\tl1_tp7_2023-0ignacio.csproj.AssemblyReference.cache
+C:\tp7\tl1_tp7_2023-0ignacio\obj\Debug\net7.0\tl1_tp7_2023-0ignacio.GeneratedMSBuildEditorConfig.editorconfig
+C:\tp7\tl1_tp7_2023-0ignacio\obj\Debug\net7.0\tl1_tp7_2023-0ignacio.AssemblyInfoInputs.cache
+C:\tp7\tl1_tp7_2023-0ignacio\obj\Debug\net7.0\tl1_tp7_2023-0ignacio.AssemblyInfo.cs
+C:\tp7\tl1_tp7_2023-0ignacio\obj\Debug\net7.0\tl1_tp7_2023-0ignacio.csproj.CoreCompileInputs.cache
+C:\tp7\tl1_tp7_2023-0ignacio\obj\Debug\net7.0\tl1_tp7_2023-0ignacio.dll
+C:\tp7\tl1_tp7_2023-0ignacio\obj\Debug\net7.0\refint\tl1_tp7_2023-0ignacio.dll
+C:\tp7\tl1_tp7_2023-0ignacio\obj\Debug\net7.0\tl1_tp7_2023-0ignacio.pdb
+C:\tp7\tl1_tp7_2023-0ignacio\obj\Debug\net7.0\tl1_tp7_2023-0ignacio.genruntimeconfig.cache
+C:\tp7\tl1_tp7_2023-0ignacio\obj\Debug\net7.0\ref\tl1_tp7_2023-0ignacio.dll
