@@ -24,19 +24,15 @@ do
                 break;
             case 2:
                 cal.Restar(a);
-                
                 break;
             case 3:
                 cal.Muliplicar(a);
-                
                 break;
             case 4:
                 cal.Dividir(a);
-                
                 break;
             case 5:
                 cal.Limpiar();
-                
                 break;
             default:
                 break;
