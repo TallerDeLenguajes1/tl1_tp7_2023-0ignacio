@@ -1,27 +1,25 @@
 {
   "format": 1,
   "restore": {
-    "C:\\tp7\\tl1_tp7_2023-0ignacio\\tl1_tp7_2023-0ignacio.csproj": {}
+    "C:\\Users\\ignac\\Documents\\PDFs Facet\\PU\\2do año\\1er cuatrimestre\\TL 1\\tps\\tl1_tp7_2023-0ignacio\\tl1_tp7_2023-0ignacio.csproj": {}
   },
   "projects": {
-    "C:\\tp7\\tl1_tp7_2023-0ignacio\\tl1_tp7_2023-0ignacio.csproj": {
+    "C:\\Users\\ignac\\Documents\\PDFs Facet\\PU\\2do año\\1er cuatrimestre\\TL 1\\tps\\tl1_tp7_2023-0ignacio\\tl1_tp7_2023-0ignacio.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\tp7\\tl1_tp7_2023-0ignacio\\tl1_tp7_2023-0ignacio.csproj",
+        "projectUniqueName": "C:\\Users\\ignac\\Documents\\PDFs Facet\\PU\\2do año\\1er cuatrimestre\\TL 1\\tps\\tl1_tp7_2023-0ignacio\\tl1_tp7_2023-0ignacio.csproj",
         "projectName": "tl1_tp7_2023-0ignacio",
-        "projectPath": "C:\\tp7\\tl1_tp7_2023-0ignacio\\tl1_tp7_2023-0ignacio.csproj",
-        "packagesPath": "C:\\Users\\Alumno\\.nuget\\packages\\",
-        "outputPath": "C:\\tp7\\tl1_tp7_2023-0ignacio\\obj\\",
+        "projectPath": "C:\\Users\\ignac\\Documents\\PDFs Facet\\PU\\2do año\\1er cuatrimestre\\TL 1\\tps\\tl1_tp7_2023-0ignacio\\tl1_tp7_2023-0ignacio.csproj",
+        "packagesPath": "C:\\Users\\ignac\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\ignac\\Documents\\PDFs Facet\\PU\\2do año\\1er cuatrimestre\\TL 1\\tps\\tl1_tp7_2023-0ignacio\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\Alumno\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+          "C:\\Users\\ignac\\AppData\\Roaming\\NuGet\\NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net7.0"
         ],
         "sources": {
-          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -55,7 +53,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.302\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.304\\RuntimeIdentifierGraph.json"
         }
       }
     }
